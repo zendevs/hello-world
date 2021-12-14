@@ -1,4 +1,6 @@
 # hello-world
-This program will output "hello world".
 
-Name: Zane Coons
+My first repository!
+
+Whats up, my name is Zane. Im a 2nd year student at tcc currently working on my
+associates, and having a blast doing it!
